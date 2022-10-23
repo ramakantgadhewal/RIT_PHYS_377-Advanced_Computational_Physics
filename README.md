@@ -1,1 +1,0 @@
-# PHYS-377: Advanced Computational Physics
